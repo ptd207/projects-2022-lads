@@ -1,8 +1,8 @@
 # \[Group name\]
 
 **Group members:**
-- Anthon
-- Albert
+- Anthon (dbj386)
+- Albert (ptd207)
 - Thomas
 
 This repository contains  
